@@ -1,3 +1,6 @@
 .pytest_cache
 .vscode
-       
+
+git remote add origin https://github.com/BrandyLopez619/tutorials_workflow_demo.git
+git branch -M main
+git push -u origin main
